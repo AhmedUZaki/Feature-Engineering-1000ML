@@ -1,28 +1,27 @@
 # Feature Engineering | 1000ML
 
 ## Course content:
-
-- Data Cleaning.
-
-  
-
-- Data Slicing.
-
-- Feature encoding : Categorical.
-
-- Feature scaling : Numerical.
+> - Data Cleaning.
 
   
 
-- Feature Extraction.
-
-- Feature Importance & Feature Selection.
+>- Data Slicing.
+>
+>- Feature encoding : Categorical.
+>
+>- Feature scaling : Numerical.
 
   
 
-- Dimension reduction.
+>- Feature Extraction.
+>
+>- Feature Importance & Feature Selection.
 
-- Anomaly detection (outliers).
+  
+
+>- Dimension reduction.
+>
+>- Anomaly detection (outliers).
 
 ## Lectures
 
