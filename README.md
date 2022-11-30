@@ -40,9 +40,6 @@
 
 - ##### Papers:		
   - [Paper 1](https://github.com/AhmedUZaki/Feature-Engineering-1000ML/blob/main/Papers/Lecture%2001/01%20data-cleaning-IEEE.pdf)
-
   - [Paper 2](https://github.com/AhmedUZaki/Feature-Engineering-1000ML/blob/main/Papers/Lecture%2001/02%20Hellerstein_2008.pdf)
-
   - [Paper 2](https://github.com/AhmedUZaki/Feature-Engineering-1000ML/blob/main/Papers/Lecture%2001/03%20Ganti_Ch1.pdf)
-
   - [Paper 4](https://github.com/AhmedUZaki/Feature-Engineering-1000ML/blob/main/Papers/Lecture%2001/04%20data_cleaning_2010.pdf)
