@@ -69,7 +69,7 @@
 
     - [Article 1](https://www.activestate.com/resources/quick-reads/how-to-slice-a-dataframe-in-pandas/)
     - [Article 2](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html)
-    - [Article3](https://www.journaldev.com/55406/data-filtering-in-python-pandas)
+    - [Article 3](https://www.journaldev.com/55406/data-filtering-in-python-pandas)
     
 ------
 - #### Feature encoding : Categorical
