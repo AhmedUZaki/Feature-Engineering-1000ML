@@ -65,7 +65,7 @@
     - [Video 2](https://www.youtube.com/watch?v=ni9ng4Jy3Z8)
     - [Video 3](https://www.youtube.com/watch?v=Sz_iXvh25Ew)
 
-  - ##### ِArticle:
+  - ##### Article:
 
     - [Article 1](https://www.activestate.com/resources/quick-reads/how-to-slice-a-dataframe-in-pandas/)
     - [Article 2](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html)
@@ -82,7 +82,7 @@
     - [Video 4](https://www.youtube.com/watch?v=u5R2G_fR6sc
       )
   
-  - ##### ِArticle:
+  - ##### Article:
   
     - [Article 1](https://analyticsindiamag.com/a-complete-guide-to-categorical-data-encoding)
     - [Article 2](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
@@ -100,7 +100,7 @@
     - [Video 4](https://www.youtube.com/watch?v=wFuBUbfixzU)
     - [Video 5](https://www.youtube.com/watch?v=ZddUwo4R5ug)
   
-  - ##### ِArticle:
+  - ##### Article:
   
     - [Article 1](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
     - [Article 2](https://www.geeksforgeeks.org/ml-feature-scaling-part-2/)
