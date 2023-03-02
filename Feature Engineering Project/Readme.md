@@ -1,6 +1,6 @@
 # Uber and Lyft Dataset Boston, MA - Feature Engineering
 
-This project is a part of the 1000ML initiative and aims to analyze the Uber and Lyft ride-sharing dataset in Boston, MA. The project utilizes feature engineering techniques to create new features from the raw data, which can help in building a better machine learning model for predicting ride demand.
+This project is a part of the 1000ML Engineer Initiative and aims to analyze the Uber and Lyft Dataset Boston, MA dataset. The project utilizes feature engineering techniques to create new features from the raw data, which can help in building a better machine learning model for predicting ride demand.
 
 ## About Dataset
 
