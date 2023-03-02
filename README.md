@@ -1,4 +1,4 @@
-# Feature Engineering | 1000ML Initiative
+# Feature Engineering | 1000ML Engineer Initiative 
 
 ## Course content:
 > - Data Cleaning.
