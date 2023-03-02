@@ -67,10 +67,9 @@
 
 ## Project
 
-- My Project
+- [My Project](https://github.com/AhmedUZaki/Feature-Engineering-1000ML-Initiative/blob/main/Project/rideshare_FeatureEngineering%20.ipynb)
 - [Related Projects](https://github.com/HeshamAsem/1000MLEngineer/tree/main/FeatureEngineering) 
 
 ## Certificate
 
 <p align="center"><img src='https://i.imgur.com/T4FZmj8.jpeg' width="500"/>
-
